@@ -1,33 +1,33 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm [MOHAMED HAARISH H]
 
 ## 🚀 About Me
-[Brief introduction about yourself, your interests, and your professional background]
+[ I AM AN COMPUTER SCIENCE ENGINEERING STUDENT]
 
 ## 🛠 Skills
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
+- [PYTHON]
+- [C]
+- [C++]
 - ...
 
 ## 🔭 Current Projects
-- [Project 1]: [Brief description]
-- [Project 2]: [Brief description]
+- [ProjeCT 1]: [full stack development in python]
+- [Project 2]: [data science]
 - ...
 
 ## 🌱 I'm currently learning
-- [Technology/Skill 1]
-- [Technology/Skill 2]
+- [html/Skill 1]
+- [my sql/Skill 2]
 - ...
 
 ## 💼 Work Experience
-- [Job Title] at [Company] (Start Date - End Date)
+- [web developer] at [knowx innovation] (01.05.2025 - 01.05.2027)
 - [Job Title] at [Company] (Start Date - End Date)
 - ...
 
 ## 📫 How to reach me
-- Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn profile URL]
-- Twitter: [@YourTwitterHandle]
+- Email: [mohamedhaarish1903@gmail.com]
+- LinkedIn: [haarish.linkedin]
+- Twitter: [haarish.com]
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
